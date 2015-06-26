@@ -3,7 +3,7 @@ inherit perl
 
 NAME="perl-Class-Data-Inheritable"
 VERSION=0.08
-RELEASE=2
+RELEASE=3
 CATEGORY="Perl"
 SUMMARY="Perl distribution Class-Data-Inheritable"
 DESCRIPTION="Class::Data::Inheritable is for creating accessor/mutators to
